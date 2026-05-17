@@ -67,6 +67,8 @@ compas-recidivism-bias-analysis/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
+
 Key Findings
 
 The analysis shows that COMPAS has moderate predictive capacity for general recidivism, but its performance is more limited when predicting violent recidivism.
